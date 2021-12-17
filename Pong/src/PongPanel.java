@@ -16,7 +16,7 @@ import java.awt.Font;
 		private final static Color BACKGROUND_COLOR = Color.WHITE;
 		private final static Color OBJECT_COLOUR = Color.BLACK;
 		private final static int TIMER_DELAY = 5;
-		private final static int BALL_MOVEMENT_SPEED = 2;
+		private final static int BALL_MOVEMENT_SPEED = 3;
 		private final static int POINTS_TO_WIN = 11;
         private final static int X_PADDING_SCORES = 100;
         private final static int Y_PADDING_SCORES = 100;
